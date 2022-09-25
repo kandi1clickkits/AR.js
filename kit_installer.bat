@@ -8,7 +8,7 @@ ECHO 	Based on your network speed, the installation may take a while
 ECHO======================================================================================
 setlocal ENABLEDELAYEDEXPANSION
 REM update below path if required
-SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/AR.js/releases/download/1.0.0/AR.js-main.zip
+SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/AR.js/releases/download/v1.0.0/AR.js-main.zip
 SET REPO_NAME=Ar.js-main.zip
 SET EXTRACTED_REPO_DIR=Ar.js-main
 SET NOTEBOOK_NAME=image.html
